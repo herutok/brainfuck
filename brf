@@ -1,0 +1,2 @@
+#!/system/bin
+exec /storage/sdcard1/QZ/BrainFuck/brainfuck-psiphon-pro-go $@
